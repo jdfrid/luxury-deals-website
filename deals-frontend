@@ -1,0 +1,4 @@
+cd /home/ubuntu/deals-frontend
+git remote add origin https://github.com/jdfrid/luxury-deals-website.git
+git branch -M main
+git push -u origin main
